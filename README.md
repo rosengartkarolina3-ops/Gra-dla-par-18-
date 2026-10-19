@@ -7,7 +7,7 @@
 - Wariant **grupowy (4–10 osób)**: Kobiety kontra Mężczyźni oraz Para kontra Para, z oddzielnymi rankingami.
 - Dziewięć poziomów i pięcioetapowy **Finał Główny**.
 - Rozbudowane, zmysłowe talie 18+ na poziomach 7–9, edytowalne karty, możliwość tworzenia własnych kart solo/duo.
-- Każda osoba indywidualnie wyraża zgodę, może pominąć kartę bez kary i zatrzymać grę.
+- Każda osoba indywidualnie wyraża zgodę,  może pominąć kartę bez kary i zatrzymać grę.
 - Losowanie bez powtórek, punktowanie po potwierdzeniu, lokalny zapis postępu.
 
 ## Uruchomienie na telefonie

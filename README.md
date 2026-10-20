@@ -15,4 +15,4 @@ Otwórz `index.html` w przeglądarce lub opublikuj repozytorium przez **Settings
 Po wdrożeniu: https://rosengartkarolina3-ops.github.io/Gra-dla-par-18-/
 
 ## Ograniczenia
-Gra działa **na jednym urządzeniu/przeglądarce**. Nie synchronizuje telefonów, nie ma kodu pokoju ani serwerowej bazy danych. Udostępnienie linku innym osobom otwiera oddzielne lokalne sesje. Zmiany kart i punkty zapisują się w `localStorage` danego urządzenia.  
+Gra działa **na jednym urządzeniu/przeglądarce**. Nie synchronizuje telefonów, nie ma kodu pokoju ani serwerowej bazy danych. Udostępnienie linku innym osobom otwiera oddzielne lokalne sesje. Zmiany kart i punkty zapisują się w `localStorage` danego urządzenia.   
